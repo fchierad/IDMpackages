@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><site>
+        <description url="http://test">
+                This site contains the packages for Novell Identity Manager
+        </description>        
+<feature id="JSONlib.feature" url="features/JSONlib.feature_1.0.2.20180404233601.jar" version="1.0.2.20180404233601"/>
+</site>
