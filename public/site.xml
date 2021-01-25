@@ -3,4 +3,5 @@
                 This site contains the packages for Novell Identity Manager
         </description>        
 <feature id="JSONlib.feature" url="features/JSONlib.feature_1.0.2.20180404233601.jar" version="1.0.2.20180404233601"/>
+	<feature id="STRUCTLOG.feature" url="features/STRUCTLOG.feature_1.0.0.20210124201018.jar" version="1.0.0.20210124201018"/>
 </site>
