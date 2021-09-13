@@ -4,6 +4,7 @@
         </description>        
 <feature id="DRVUTIL.feature" url="features/DRVUTIL.feature_1.0.0.20210130205503.jar" version="1.0.0.20210130205503"/>
 	<feature id="DRVUTIL.feature" url="features/DRVUTIL.feature_1.0.3.20210912232322.jar" version="1.0.3.20210912232322"/>
+	<feature id="DRVUTIL.feature" url="features/DRVUTIL.feature_1.0.4.20210913160932.jar" version="1.0.4.20210913160932"/>
 	<feature id="JSONlib.feature" url="features/JSONlib.feature_1.0.2.20180404233601.jar" version="1.0.2.20180404233601"/>
 	<feature id="STRUCTLOG.feature" url="features/STRUCTLOG.feature_1.0.0.20210124201018.jar" version="1.0.0.20210124201018"/>
 	<feature id="STRUCTLOG.feature" url="features/STRUCTLOG.feature_1.0.1.20210125215635.jar" version="1.0.1.20210125215635"/>
